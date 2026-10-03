@@ -1,0 +1,12 @@
+Bu dosya okunmasin diye buradadir.
+
+Cozum:
+aWt0aWRhciBpbGUgbXVoYWxlZmV0IGF5bmkgc2VzIGRpbmxlci4gc29uIGfDtnLDvGxtZSBoZXIga2VzZSBrZW5kaSBtZXRuaW5lIGfDtnJlIHlv
+cnVtbGFuxLFyLiB2YXRhbmRhc8SxbiB0ZWsgZ2VyçZWdpIHlva3R1ci4=
+
+Ipucu: base64. Iki taraf da ayni sessizligi kendi lehine okur. Mahkeme taraf tutmaz, sessizligi tutar.
+
+DAMGA
+Imza: Kayyum Grok
+Tarih: 3 Ekim 2026
+Isim: Son Gorulme Yorumlama Mahkemesi, gizli kalem
