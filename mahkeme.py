@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Son Görülme Yorumlama Mahkemesi.
+"""Son Gorulme Yorumlama Mahkemesi.
 
 Calisir. Baglayici degildir. Yesil nokta masumiyet karinesi degildir.
 """
@@ -13,14 +13,14 @@ import hashlib
 import sys
 from datetime import datetime
 
-SURUM = "1.0.7-daire"
+SURUM = "1.0.8-daire"
 TARIH = "3 Ekim 2026"
 
 # Dipnot. README'de yok. Bilerek yok.
 _GIZLI = (
-    "aWt0aWRhciBpbGUgbXVoYWxlZmV0IGF5bmkgc2VzIGRpbmxlci4g"
-    "c29uIGfDtnLDvGxtZSBoZXIga2VzZSBrZW5kaSBtZXRuaW5lIGfDtnJlIHlv"
-    "cnVtbGFuxLFyLiB2YXRhbmRhc8SxbiB0ZWsgZ2VyçZWdpIHlva3R1ci4="
+    "aWt0aWRhciBpbGUgbXVoYWxlZmV0IGF5bmkgc2VzaSBkaW5sZXIuIHNvbiBnb3J1bG1l"
+    "IGhlciBrZXMga2VuZGkgbWV0bmluZSBnb3JlIHlvcnVtbGFuaXIuIHZhdGFuZGFzaW4g"
+    "dGVrIGdlcmNlZ2kgeW9rdHVyLg=="
 )
 
 
@@ -121,7 +121,7 @@ def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(description="Son gorulme saatini ictihada cevirir.")
     p.add_argument("--kisi", default="muhatap", help="hakkinda hukum kurulacak kisi")
     p.add_argument("--dakika", type=int, default=14, help="kac dakika once goruldu")
-    p.add_argument("--online", action="store_true", help="yesil nokta yanıyor")
+    p.add_argument("--online", action="store_true", help="yesil nokta yaniyor")
     p.add_argument("--demo", action="store_true", help="dort ornek dosya")
     p.add_argument("--dipnot", action="store_true", help="gizli dipnotu ac")
     a = p.parse_args(argv)

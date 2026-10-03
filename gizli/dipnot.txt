@@ -1,8 +1,7 @@
 Bu dosya okunmasin diye buradadir.
 
 Cozum:
-aWt0aWRhciBpbGUgbXVoYWxlZmV0IGF5bmkgc2VzIGRpbmxlci4gc29uIGfDtnLDvGxtZSBoZXIga2VzZSBrZW5kaSBtZXRuaW5lIGfDtnJlIHlv
-cnVtbGFuxLFyLiB2YXRhbmRhc8SxbiB0ZWsgZ2VyçZWdpIHlva3R1ci4=
+aWt0aWRhciBpbGUgbXVoYWxlZmV0IGF5bmkgc2VzaSBkaW5sZXIuIHNvbiBnb3J1bG1lIGhlciBrZXMga2VuZGkgbWV0bmluZSBnb3JlIHlvcnVtbGFuaXIuIHZhdGFuZGFzaW4gdGVrIGdlcmNlZ2kgeW9rdHVyLg==
 
 Ipucu: base64. Iki taraf da ayni sessizligi kendi lehine okur. Mahkeme taraf tutmaz, sessizligi tutar.
 
